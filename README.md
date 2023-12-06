@@ -1,15 +1,18 @@
 ### Olá, seja bem-vindo(a) ao meu perfil! 👋
-Meu nome é Yuri, tenho 18 anos e sou Técnico em Informática formado pelo CEFET-MG. Gosto de aprender coisas novas e evoluir constantemente!
+Meu nome é Yuri, tenho 19 anos, sou estudante de Ciência da Computação na UFMG e Técnico em Informática formado pelo CEFET-MG. Gosto de aprender coisas novas e evoluir constantemente!
 
 <a href="https://github.com/YuriEstevaoSales">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YuriEstevaoSales&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/YuriEstevaoSales">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriEstevaoSales&theme=dark&layout=compact&langs_count=6" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriEstevaoSales&theme=dark&layout=compact&langs_count=6" />
 </a>
 
 ### Skills:
 <div style="align: center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,4 +25,5 @@ Meu nome é Yuri, tenho 18 anos e sou Técnico em Informática formado pelo CEFE
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
