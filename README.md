@@ -1,5 +1,4 @@
 ### Olá, seja bem-vindo(a) ao meu perfil! 👋
-Meu nome é Yuri, tenho 19 anos, sou estudante de Ciência da Computação na UFMG e Técnico em Informática formado pelo CEFET-MG. Gosto de aprender coisas novas e evoluir constantemente!
 
 <a href="https://github.com/YuriEstevaoSales">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YuriEstevaoSales&theme=dark&show_icons=true" />
