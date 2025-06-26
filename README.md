@@ -26,3 +26,4 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+https://www.canva.com/design/DAGpZs3Q9Dw/I9DBqSLy7mNwqSE0rKkaDw/edit
